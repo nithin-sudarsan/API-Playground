@@ -1,0 +1,10 @@
+.cm-editor{
+    border-radius: 15px;
+    max-width: 400px;
+    overflow: auto;
+}
+.cm-gutters{
+    border-radius: 15px;
+    max-width: 400px;
+    overflow: auto;
+}
