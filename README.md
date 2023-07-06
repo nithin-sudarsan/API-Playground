@@ -3,7 +3,7 @@
 API-Playground is a full-stack web application developed as part of my internship project at [Perfios](https://www.perfios.com/). It serves as a dynamic portal where users can seamlessly experiment with various APIs and instantly observe the corresponding real-time responses
 ## Working of the web-app
 Users are required to upload two files in order to add an API to try it out. The first file being the API Documentation and the second file being a CSV file that contains all the headers that are required by the API. Current version of the application supports OpenAPI Specification 3.0 standards for API documentation. 
-### Structure of API Documentation ([sample documentation]())
+### Structure of API Documentation ([sample file](Sample%20Files/OpenAPI3.json))
 1. **OpenAPI** (String): The version of the OpenAPI specification
 
 2. **Info** (Object): General information about the API
@@ -21,6 +21,15 @@ Users are required to upload two files in order to add an API to try it out. The
    - Schemas (Object): Defines data models or schemas used in the API
        - Type (String): The type of the object
        - Properties (Object): Describes the properties of the object
+### Structure of Headers File ([sample file](Sample%20Files/OpenAPI3.json))
+Headers file is a simple CSV File that contains the headers that are necessary while making API calls.
+The Headers CSV file is expected to have the following structure:
+|       |  |
+| ----------- | ----------- |
+| Headers key   | Headers value  |
+
 ## User Journey
-![Flowchart (3) (1)](https://github.com/nithin-sudarsan/API-Playground/assets/84195790/d7d04f96-b48c-467c-939b-f432569e29d8)
-## 
+![Flowchart (6)](https://github.com/AnuroopKeshav/NaiveBayesClassifier/assets/84195790/ffed7813-14a5-4cb1-bf5d-607d89a05e15)
+
+## UI Screenshots
+
