@@ -32,4 +32,7 @@ The Headers CSV file is expected to have the following structure:
 ![Flowchart (6)](https://github.com/AnuroopKeshav/NaiveBayesClassifier/assets/84195790/ffed7813-14a5-4cb1-bf5d-607d89a05e15)
 
 ## UI Screenshots
-
+### Home Page
+![WhatsApp Image 2023-05-24 at 23 57 51 (1)](https://github.com/AnuroopKeshav/NaiveBayesClassifier/assets/84195790/b6cab4da-01be-4f63-919a-c3fd018d26ee)
+### Playground
+![WhatsApp Image 2023-05-24 at 23 58 32 (1)](https://github.com/AnuroopKeshav/NaiveBayesClassifier/assets/84195790/aceab046-4a1d-4527-997a-cac2d710e2c1)
